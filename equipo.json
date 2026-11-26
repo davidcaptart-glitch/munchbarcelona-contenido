@@ -1,0 +1,38 @@
+{
+  "intro": {
+    "es": "El Munch Barcelona lo construimos entre varias personas que cuidamos la acogida, la organización y el espacio de encuentro. Aquí puedes conocer quién está detrás del proyecto.",
+    "ca": "El Munch Barcelona el construïm entre diverses persones que cuidem l'acollida, l'organització i l'espai de trobada. Aquí pots conèixer qui hi ha darrere del projecte."
+  },
+  "miembros": [
+    {
+      "id": "conchi",
+      "nombre": "Conchi Muñoz",
+      "descripcion": {
+        "es": "Sexóloga especializada en BDSM, kink y minorías eróticas. Coordino Munch Barcelona y estoy detrás de gran parte del proyecto. Algunos de mis objetivos son construir y mantener un espacio lo más respetuoso, acogedor y centrado en la comunidad posible.",
+        "ca": "Sexòloga especialitzada en BDSM, kink i minories eròtiques. Coordino el Munch Barcelona i soc darrere de bona part del projecte. Alguns dels meus objectius són construir i mantenir un espai tan respectuós, acollidor i centrat en la comunitat com sigui possible."
+      },
+      "foto": "imagenes/equipo-conchi.jpg",
+      "enlaces": []
+    },
+    {
+      "id": "pau",
+      "nombre": "Pau Ignasi",
+      "descripcion": {
+        "es": "Empecé con muchas inquietudes y gracias a la comunidad y las experiencias BDSM he podido crecer y ayudar a más gente como yo, a aprender e integrarse en este mundillo.",
+        "ca": "Vaig començar amb moltes inquietuds i, gràcies a la comunitat i a les experiències BDSM, he pogut créixer i ajudar més gent com jo a aprendre i a integrar-se en aquest món."
+      },
+      "foto": "imagenes/equipo-pau.jpg",
+      "enlaces": []
+    },
+    {
+      "id": "alyx",
+      "nombre": "Alyx",
+      "descripcion": {
+        "es": "Disfruto creando comunidad y acompañando a las personas que se acercan por primera vez al BDSM. Colaboro en la gestión del Munch Barcelona tanto presencialmente como en redes, ayudando a mantener un espacio seguro, respetuoso y acogedor para todas las personas.",
+        "ca": "Gaudeixo creant comunitat i acompanyant les persones que s'acosten per primera vegada al BDSM. Col·laboro en la gestió del Munch Barcelona tant presencialment com a les xarxes, i ajudo a mantenir un espai segur, respectuós i acollidor per a totes les persones."
+      },
+      "foto": "imagenes/equipo-alyx.jpeg",
+      "enlaces": []
+    }
+  ]
+}

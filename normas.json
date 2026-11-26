@@ -1,0 +1,63 @@
+{
+  "intro": {
+    "es": "Más que normas rígidas, esto es un acuerdo de convivencia. Queremos un espacio seguro, accesible y acogedor para todes.",
+    "ca": "Més que normes rígides, això és un acord de convivència. Volem un espai segur, accessible i acollidor per a tothom."
+  },
+  "secciones": [
+    {
+      "id": "privacidad",
+      "titulo": {
+        "es": "Privacidad",
+        "ca": "Privacitat"
+      },
+      "contenido": {
+        "es": "- No se hacen fotos ni vídeos dentro del Munch, ni a personas ni al local.\n- No compartas fuera lo que alguien cuenta si no te ha dado permiso.\n- No todo el mundo quiere que se sepa que viene a un munch: respeta eso.",
+        "ca": "- No es fan fotos ni vídeos dins del Munch, ni a persones ni al local.\n- No expliquis fora el que algú comparteix si no t'hi ha donat permís.\n- No tothom vol que se sàpiga que ve a un munch: respecta-ho."
+      }
+    },
+    {
+      "id": "consentimiento",
+      "titulo": {
+        "es": "Consentimiento",
+        "ca": "Consentiment"
+      },
+      "contenido": {
+        "es": "- El consentimiento tiene que ser explícito, entusiasta y reversible.\n- No des por hecho que alguien está disponible para hablar de temas íntimos, recibir contacto físico o intercambiar redes. Pregunta antes.\n- Si alguien te dice que no quiere seguir hablando de algo, se respeta y punto.",
+        "ca": "- El consentiment ha de ser explícit, entusiasta i reversible.\n- No donis per fet que algú està disponible per parlar de temes íntims, rebre contacte físic o intercanviar xarxes. Pregunta abans.\n- Si algú et diu que no vol continuar parlant d'alguna cosa, es respecta i punt."
+      }
+    },
+    {
+      "id": "juego",
+      "titulo": {
+        "es": "Juego",
+        "ca": "Joc"
+      },
+      "contenido": {
+        "es": "- El Munch Barcelona no es una play party.\n- No se juega durante el evento ni se llevan dinámicas de rol a la práctica allí.\n- Se puede hablar de intereses y prácticas, pero sin performear roles ni incomodar a otras personas.",
+        "ca": "- El Munch Barcelona no és una play party.\n- No es juga durant la trobada ni s'hi porten a la pràctica dinàmiques de rol.\n- Es pot parlar d'interessos i pràctiques, però sense representar rols ni incomodar altres persones."
+      }
+    },
+    {
+      "id": "comunidad",
+      "titulo": {
+        "es": "Comunidad y actitudes no toleradas",
+        "ca": "Comunitat i actituds no tolerades"
+      },
+      "contenido": {
+        "es": "Queremos un espacio donde quepan muchas maneras de ser y desear, pero hay cosas que no negociamos:\n\n- No se toleran actitudes machistas, racistas, LGTBIQ+fóbicas, gordofóbicas, capacitistas o xenófobas.\n- No se tolera el acoso, la insistencia ni los comportamientos intimidatorios.\n- Si alguien te hace saber que le incomoda algo, se para.\n\n> El equipo organizador puede pedir a alguien que se marche si su actitud choca con estos mínimos de respeto.",
+        "ca": "Volem un espai on càpiguen moltes maneres de ser i de desitjar, però hi ha coses que no negociem:\n\n- No es toleren actituds masclistes, racistes, LGTBIQ+fòbiques, grassofòbiques, capacitistes o xenòfobes.\n- No es tolera l'assetjament, la insistència ni els comportaments intimidatoris.\n- Si algú et fa saber que alguna cosa l'incomoda, es para.\n\n> L'equip organitzador pot demanar a algú que marxi si la seva actitud xoca amb aquests mínims de respecte."
+      }
+    },
+    {
+      "id": "colaboraciones",
+      "titulo": {
+        "es": "Colaboraciones",
+        "ca": "Col·laboracions"
+      },
+      "contenido": {
+        "es": "Colaboramos con otros espacios en charlas y actividades formativas cuando consideramos que suman a la comunidad.\n\nEl Munch Barcelona, como tal, no organiza ni promociona fiestas privadas: asistir o no a esos eventos es decisión personal de cada quien.",
+        "ca": "Col·laborem amb altres espais en xerrades i activitats formatives quan considerem que sumen a la comunitat.\n\nEl Munch Barcelona, com a tal, no organitza ni promociona festes privades: assistir o no a aquests esdeveniments és decisió personal de cadascú."
+      }
+    }
+  ]
+}

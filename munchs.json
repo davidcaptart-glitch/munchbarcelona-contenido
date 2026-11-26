@@ -1,0 +1,56 @@
+{
+  "intro": {
+    "es": "Organizamos diferentes tipos de munchs para que puedas encontrar el espacio que mejor se adapte a ti. Todos comparten los mismos valores de respeto, conversación y comunidad.",
+    "ca": "Organitzem diferents tipus de munchs perquè puguis trobar l'espai que s'adapti millor a tu. Tots comparteixen els mateixos valors de respecte, conversa i comunitat."
+  },
+  "munchs": [
+    {
+      "id": "barcelona",
+      "nombre": "Munch Barcelona",
+      "descripcion": {
+        "es": "Nuestro munch principal, abierto a toda la comunidad BDSM y kink de Barcelona y alrededores.",
+        "ca": "El nostre munch principal, obert a tota la comunitat BDSM i kink de Barcelona i rodalies."
+      },
+      "logo": "imagenes/munch-bcn-logo.png",
+      "enlaces": [
+        {
+          "tipo": "fetlife",
+          "url": "https://fetlife.com/Munch_Barcelona"
+        },
+        {
+          "tipo": "instagram",
+          "url": "https://www.instagram.com/munch_bcn/"
+        }
+      ]
+    },
+    {
+      "id": "jove",
+      "nombre": "Munch Jove",
+      "descripcion": {
+        "es": "Espacio para personas de hasta 29 años que quieren explorar y conocer la comunidad con gente de su generación.",
+        "ca": "Espai per a persones de fins a 29 anys que volen explorar i conèixer la comunitat amb gent de la seva generació."
+      },
+      "logo": "imagenes/munch-jove-logo.png",
+      "enlaces": [
+        {
+          "tipo": "fetlife",
+          "url": "https://fetlife.com/Munch_JoveBCN"
+        },
+        {
+          "tipo": "instagram",
+          "url": "https://www.instagram.com/munchjovebcn/"
+        }
+      ]
+    },
+    {
+      "id": "escalada",
+      "nombre": "Munch Escalada",
+      "descripcion": {
+        "es": "Munch temático para quienes combinan su pasión por la escalada con el interés por el BDSM y el kink.",
+        "ca": "Munch temàtic per a qui combina la passió per l'escalada amb l'interès pel BDSM i el kink."
+      },
+      "logo": "",
+      "enlaces": []
+    }
+  ]
+}
